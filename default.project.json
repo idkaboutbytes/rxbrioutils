@@ -1,0 +1,15 @@
+{
+  "name": "RxBrioUtils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "RxBrioUtils": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
